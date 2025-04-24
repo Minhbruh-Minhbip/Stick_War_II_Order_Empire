@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/16.0">
+  <id>com.minhbip.stickwar</id>
+  <versionNumber>2.4.0</versionNumber>
+  <versionLabel>Beta 2.4</versionLabel>
+  <filename>Stick_War_II_Order_Empire</filename>
+  <name>Stick War II Order Empire</name>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <initialWindow>
+    <content>bootstrap.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <width>850</width>
+    <height>726</height>
+    <renderMode>direct</renderMode>
+  </initialWindow>
+	<icon>
+		<image16x16>icons/16.png</image16x16>
+		<image32x32>icons/32.png</image32x32>
+		<image48x48>icons/48.png</image48x48>
+		<image128x128>icons/128.png</image128x128>
+    </icon>
+</application>
